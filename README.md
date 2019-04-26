@@ -8,7 +8,8 @@
 
 ## 代码生成
 
-执行leaf-generator中的MysqlGenerator main 方法即可
+执行leaf-generator中的 MysqlGenerator main 方法即可,
+需要修改数据库连接信息，账号密码，库名称
 
 ## http请求模板方法
 使用RestService类直接注入 bean 即可使用
